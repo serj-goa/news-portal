@@ -1,0 +1,2 @@
+# news-portal
+django project
