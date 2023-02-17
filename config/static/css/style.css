@@ -1,0 +1,7 @@
+body {
+    background-color: #fefefe;
+}
+
+ul.errorlist li {
+    color: #dc3545;
+}
